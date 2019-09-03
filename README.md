@@ -1,2 +1,2 @@
 # PythonGUI
-some applications of tkinter,turtle 
+some basic applications of tkinter,turtle
